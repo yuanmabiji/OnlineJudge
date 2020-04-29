@@ -32,5 +32,5 @@ git merge upstream/master    #合并到master分支
 3）最后再到OnlineJudgeDeploy项目下执行指令：docker-compose pull && docker-compose up -d
 
 项目信息：
-前端：E:\neiwang\OnlineJudgeFE
-后端：E:\kaoshi\OnlineJudge
+前端：
+后端：
